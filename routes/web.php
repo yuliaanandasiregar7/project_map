@@ -4,7 +4,7 @@ use App\Http\Controllers\RegencyController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('index');
 });
 
 Route::get('/population', [RegencyController::class,'population']);
