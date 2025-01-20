@@ -1,7 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container">
         <a class="navbar-brand" href="/" style="font-weight: bold">
-            <img src="/img/sulsel.svg" alt="SulSel" style="height: 35px; margin: auto 5px 0;">
           SISTEM INFORMASI GEOGRAFIS MALUKU
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
