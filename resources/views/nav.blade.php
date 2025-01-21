@@ -26,8 +26,7 @@
                         Kabupaten/Kota
                     </a>
                     <div class="dropdown-menu" aria-labelledby="kabupatenDropdown" style="z-index: 1050;">
-                        <a class="dropdown-item" href="/regency/map">Peta</a>
-                        <a class="dropdown-item" href="/regency/table">Data</a>
+                        <a class="dropdown-item" href="https://id.wikipedia.org/wiki/Daftar_kabupaten_dan_kota_di_Maluku">Data</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -36,8 +35,7 @@
                         Kecamatan
                     </a>
                     <div class="dropdown-menu" aria-labelledby="kecamatanDropdown" style="z-index: 1050;">
-                        <a class="dropdown-item" href="/district/map">Peta</a>
-                        <a class="dropdown-item" href="/district/table">Data</a>
+                        <a class="dropdown-item" href="https://id.wikipedia.org/wiki/Daftar_kecamatan,_kelurahan,_dan_desa_di_Maluku">Data</a>
                     </div>
                 </li>
             </ul>
